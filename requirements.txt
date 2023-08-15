@@ -4,7 +4,7 @@ matplotlib
 jsbsim
 moderngl
 pygame
-gym
+gymnasium
 torch
 tensorboard
 stable-baselines3
