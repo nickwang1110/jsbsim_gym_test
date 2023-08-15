@@ -1,3 +1,3 @@
 # jsbsim_gym_test
 
-Match the last python packages
+Match the lastest python packages
